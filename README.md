@@ -1,17 +1,29 @@
-<a href="#"><img src="https://github.com/AakashRao-dev/AakashRao-dev/blob/main/Github%20Banner.gif?raw=true" width="100%" /></a>
 
 <h3 align="center">I'm a passionate Frontend Developer from Egypt <img src="https://img.icons8.com/color/48/000000/iraq.png" width="40" height="40">h3>
 
 ## 🙋‍♂️ About Me
 
-- 🔭 I’m currently working on **[Twiiter](https://twitter.com/O___samir)**
-- 🌱 I’m currently learning **JavaScript Language.**
 - 📫 How to reach me **omarsamiir@outlook.com**
 - ⚡ Fun fact **HTML is a programming Language. Don't trust me go and check on google.**
+- I'm currently learning HTML, CSS and JavaScript ontop of my school studies
+- I'm an avid reader, my favorite author being sigmund freud
+- I'm a Linux Expert And Windows Administrator
+- I create content on my coding/tech twitter <em>(100 follower in week)</em> [@o___samir](https://twitter.com/o___samir)
+- I having penetration testing skills and have network+ certificate 
+## Projects
 
-## 🚀 Languages and Tools:
+| Index | Project | Tech Used |
+|:------:|:-----------------:|:------:|
+|   1  |[Css-Tutorials](https://github.com/Omsamiir/Css.git)| CSS ,HTML |
+|   2  |[Javascript-tutorials](https://github.com/Omsamiir/JAVASCRIPT.git)| JAVASCRIPT ,HTML |
+|   3  |[Python-Tutorials](https://github.com/Omsamiir/PYTHON.git)| Python |
+|   4  |[Omarseeker to Locate Devices](https://github.com/Omsamiir/omar-seeker.git)| PYTHON ,HTML ,CSS ,BASH ,JAVASCRIPT,PHP ,DOCKERFILE|
+|   5  |[Random-Projects](https://github.com/Omsamiir/Random-Projects.git)| HTML,CSS,JAVASCRIPT|
 
-![HTML5](https://img.icons8.com/color/30/html-5.png)![CSS3](https://img.icons8.com/color/30/css3.png)![JavaScript](https://img.icons8.com/color/30/javascript.png)![ReactJS](https://img.icons8.com/color/30/react-native.png)![WordPress](https://img.icons8.com/color/30/wordpress.png)![SASS](https://img.icons8.com/color/30/sass.png)![NPM](https://img.icons8.com/color/30/npm.png)![Github](https://img.icons8.com/material-outlined/30/github.png)![Git](https://img.icons8.com/color/30/git.png)![VSCode](https://img.icons8.com/color/30/visual-studio-code-2019.png)
+
+## 🚀 Languages and Tools and OS:
+
+![HTML5](https://img.icons8.com/color/30/html-5.png)![CSS3](https://img.icons8.com/color/30/css3.png)![JavaScript](https://img.icons8.com/color/30/javascript.png)![ReactJS](https://img.icons8.com/color/30/react-native.png)![WordPress](https://img.icons8.com/color/30/wordpress.png)![SASS](https://img.icons8.com/color/30/sass.png)![NPM](https://img.icons8.com/color/30/npm.png)![Github](https://img.icons8.com/material-outlined/30/github.png)![Git](https://img.icons8.com/color/30/git.png)![VSCode](https://img.icons8.com/color/30/visual-studio-code-2019.png)![kali-linux](https://img.icons8.com/color/344/kali-linux.png")
 <br/>
 
 <p align="center">

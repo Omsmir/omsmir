@@ -1,5 +1,5 @@
 
-<h3 align="center">I'm a passionate Frontend Developer from Egypt <img src="https://img.icons8.com/color/48/000000/iraq.png" width="40" height="40">h3>
+<h3 align="center">I'm a passionate Frontend Developer from Egypt <img src="https://img.icons8.com/color/30/000000/iraq.png">h3>
 
 ## 🙋‍♂️ About Me
 

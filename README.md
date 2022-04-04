@@ -13,7 +13,7 @@
 
 | Index | Project | Tech Used |
 |:------:|:-----------------:|:------:|
-|   1  |[Css-Tutorials](https://github.com/Omsamiir/Css.git)| CSS ,HTML |
+|   1  |[Css-Tutorials](https://github.com/Omsamiir/Css.git)| https://img.shields.io/static/v1?label=<css>&message=<60%>&color=<purple> ,HTML |
 |   2  |[Javascript-tutorials](https://github.com/Omsamiir/JAVASCRIPT.git)| JAVASCRIPT ,HTML |
 |   3  |[Python-Tutorials](https://github.com/Omsamiir/PYTHON.git)| Python |
 |   4  |[Omarseeker to Locate Devices](https://github.com/Omsamiir/omar-seeker.git)| PYTHON ,HTML ,CSS ,BASH ,JAVASCRIPT,PHP ,DOCKERFILE|

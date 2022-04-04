@@ -4,7 +4,11 @@
 
 
 
-<h1 align="center"> ![About Me](https://img.shields.io/badge/About-Me-purple)</h1>
+<p align="center"> 
+
+![About Me](https://img.shields.io/badge/About-Me-purple)
+
+</p>
 
 * I'm currently learning HTML, CSS and JavaScript ontop of my school studies
 * I'm an avid reader, my favorite author being sigmund freud

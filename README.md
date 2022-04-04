@@ -1,5 +1,7 @@
 
 
+![Omar Samir](https://user-images.githubusercontent.com/96446413/161599559-0695f1ac-d7fd-4c9a-81e2-1ce6031fd64e.gif)
+
 
 
 <h1 align="center">About Me</h1>

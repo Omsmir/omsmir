@@ -11,15 +11,6 @@
 * I having penetration testing skills and have network+ certificate 
 <h1 align="center">Projects</h1>
 
-| Index | Project | Tech Used |
-|:------:|:-----------------:|:------:|
-|   1  |[Css-Tutorials](https://github.com/Omsamiir/Css.git)|css,HTML |
-|   2  |[Javascript-tutorials](https://github.com/Omsamiir/JAVASCRIPT.git)| JAVASCRIPT ,HTML |
-|   3  |[Python-Tutorials](https://github.com/Omsamiir/PYTHON.git)| Python |
-|   4  |[Omarseeker to Locate Devices](https://github.com/Omsamiir/omar-seeker.git)| PYTHON ,HTML ,CSS ,BASH ,JAVASCRIPT,PHP ,DOCKERFILE|
-|   5  |[Random-Projects](https://github.com/Omsamiir/Random-Projects.git)| HTML,CSS,JAVASCRIPT|
-
-<br>
 
 
 <h1 align="center">Languages and Skills</h1>
@@ -54,6 +45,17 @@
 
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white) ![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white) ![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white)
 <br>
+
+| Index | Project | Tech Used |
+|:------:|:-----------------:|:------:|
+|   1  |[Css-Tutorials](https://github.com/Omsamiir/Css.git)|css,HTML |
+|   2  |[Javascript-tutorials](https://github.com/Omsamiir/JAVASCRIPT.git)| JAVASCRIPT ,HTML |
+|   3  |[Python-Tutorials](https://github.com/Omsamiir/PYTHON.git)| Python |
+|   4  |[Omarseeker to Locate Devices](https://github.com/Omsamiir/omar-seeker.git)| PYTHON ,HTML ,CSS ,BASH ,JAVASCRIPT,PHP ,DOCKERFILE|
+|   5  |[Random-Projects](https://github.com/Omsamiir/Random-Projects.git)| HTML,CSS,JAVASCRIPT|
+
+<br>
+
 
 
 

@@ -12,8 +12,7 @@
 * I create content on my coding/tech twitter <em>(100 follower in week)</em> [@o___samir](https://twitter.com/o___samir)
 * I having penetration testing skills and have network+ certificate 
 
-https://badgen.net/amo/v/markdown-viewer-chrome
-
+![badge](https://badgen.net/amo/v/markdown-viewer-chrome)
 <h1 align="center">Languages and Skills</h1>
 </br>
 <p align="left">Sketch</p>

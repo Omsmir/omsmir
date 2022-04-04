@@ -6,7 +6,7 @@
 
 <h1 align="center"> 
 
-![About Me](https://img.shields.io/badge/About-Me-purple)
+![About Me](https://img.shields.io/badge/About-Me-purple?style=for-the-badge&logo=appveyor)
 
 </h1>
 

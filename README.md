@@ -1,8 +1,8 @@
-<h1 align="center"> ❤ Hello There! I'am Omar</h1>
 
-<h3 align="center"> I'am A 18 Year Old Student ! </h3>
 
-## About me
+
+
+<h1 align="center">About Me</h1>
 
 * I'm currently learning HTML, CSS and JavaScript ontop of my school studies
 * I'm an avid reader, my favorite author being sigmund freud

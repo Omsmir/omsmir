@@ -1,7 +1,6 @@
 
 
 
-https://user-images.githubusercontent.com/96446413/161597046-2902835e-40c3-4042-9ada-04d23945cce1.mp4
 
 
 ## About me

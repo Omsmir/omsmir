@@ -4,7 +4,7 @@
 
 
 
-<h1 align="center"> About Me</h1>
+<h1 align="center"> ![About Me](https://badgen.net/About/:Me/:About Me/:purple?icon=github)</h1>
 
 * I'm currently learning HTML, CSS and JavaScript ontop of my school studies
 * I'm an avid reader, my favorite author being sigmund freud
@@ -12,7 +12,6 @@
 * I create content on my coding/tech twitter <em>(100 follower in week)</em> [@o___samir](https://twitter.com/o___samir)
 * I having penetration testing skills and have network+ certificate 
 
-![badge](https://badgen.net/amo/v/markdown-viewer-chrome)
 <h1 align="center">Languages and Skills</h1>
 </br>
 <p align="left">Sketch</p>

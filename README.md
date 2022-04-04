@@ -46,14 +46,16 @@
 
 <br>
 
+# Social Links 
 
-  <h3 align="center">Connect With Me</h3>
 
 
-<h3 align="left" >My Social Media</h3>
 <p align="left">
 
-<a href="https://twitter.com/o___samir" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="OmarSamir" height="30" width="40" /></a>
+<a href="https://www.twitter.com/o___samir" target="_blank" rel="noreferrer"><img
+src="https://img.shields.io/twitter/follow/aakash_codes?logo=twitter&style=for-the-badge&color=3382ed&labelColor=1c1917"/> &nbsp;&nbsp;
+<a href="https://www.github.com/Omsamiir" target="_blank" rel="noreferrer"><img
+src="https://img.shields.io/github/followers/aakashrao-dev?logo=github&style=for-the-badge&color=3382ed&labelColor=1c1917" /></a>
 
 </p>
 <br>

@@ -10,9 +10,9 @@
 
 </h1>
 
-![1](https://img.shields.io/badge/-1-%230E7FBF)  I'm Currently Learning <h3>PHP And Python</h3> Ontop Of My Studies <br>
+![1](https://img.shields.io/badge/-1-%230E7FBF)  I'm Currently Learning PHP And Python Ontop Of My Studies <br>
 ![2](https://img.shields.io/badge/-2-%230E7FBF) I'm an avid reader, my favorite author being sigmund freud <br>
-![3](https://img.shields.io/badge/-3-%230E7FBF) I'm a ![Linux](https://img.shields.io/badge/-Linux-%23fff) Senior And ![Windows](https://img.shields.io/badge/-Windows-%23fff) Administrator <br>
+![3](https://img.shields.io/badge/-3-%230E7FBF) I'm a Linux Senior And Winsows Administrator <br>
 ![4](https://img.shields.io/badge/-4-%230E7FBF) Posting Coding Techs On twitter <em>(100 follower in week)</em> [@o___samir](https://twitter.com/o___samir) <br>
 ![5](https://img.shields.io/badge/-5-%230E7FBF) I having penetration testing skills and have network+ certificate 
 

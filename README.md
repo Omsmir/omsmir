@@ -24,7 +24,7 @@
 
 ## ❤ Languages , Tools And Os I've Worked With
 
-![Adobe InDesign](https://img.shields.io/badge/Adobe%20InDesign-49021F?style=for-the-badge&logo=adobeindesign&logoColor=white)
+![Adobe InDesign](https://img.shields.io/badge/Adobe%30InDesign-49021F?style=for-the-badge&logo=adobeindesign&logoColor=white)
 <br>
 
 <p align="center">

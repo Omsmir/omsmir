@@ -64,7 +64,7 @@
 |:------:|:-----------------:|:------:|
 |   1  |[Css-Tutorials](https://github.com/Omsamiir/Css.git)|![css](https://img.icons8.com/color/48/000000/css.png) ![Html](https://img.icons8.com/color/48/000000/html.png) |
 |   2  |[Javascript-tutorials](https://github.com/Omsamiir/JAVASCRIPT.git)| ![Html](https://img.icons8.com/color/48/000000/html.png) ![javascript](https://img.icons8.com/color/48/000000/js.png) |
-|   3  |[Python-Tutorials](https://github.com/Omsamiir/PYTHON.git)| ![Python](https://img.shields.io/badge/python-FFE953?style=for-the-badge&logo=python&logoColor=ffdd54) |
+|   3  |[Python-Tutorials](https://github.com/Omsamiir/PYTHON.git)| ![Python](https://img.shields.io/badge/python-39457E?style=for-the-badge&logo=python&logoColor=ffdd54) |
 |   4  |[Random-Projects](https://github.com/Omsamiir/Random-Projects.git)| ![css](https://img.icons8.com/color/48/000000/css.png) ![Html](https://img.icons8.com/color/48/000000/html.png) ![javascript](https://img.icons8.com/color/48/000000/js.png)|
 
 <br>

@@ -10,11 +10,11 @@
 
 </h1>
 
-* I'm currently learning HTML, CSS and JavaScript ontop of my school studies
-* I'm an avid reader, my favorite author being sigmund freud
-* I'm a Linux Expert And Windows Administrator
-* I create content on my coding/tech twitter <em>(100 follower in week)</em> [@o___samir](https://twitter.com/o___samir)
-* I having penetration testing skills and have network+ certificate 
+![1](https://img.shields.io/badge/-1-%23009639?style=for-the-badge&logo=appveyor)  I'm currently learning HTML, CSS and JavaScript ontop of my school studies
+![2](https://img.shields.io/badge/-2-%23009639?style=for-the-badge&logo=appveyor) I'm an avid reader, my favorite author being sigmund freud
+![3](https://img.shields.io/badge/-3-%23009639?style=for-the-badge&logo=appveyor) I'm a Linux Expert And Windows Administrator
+![4](https://img.shields.io/badge/-4-%23009639?style=for-the-badge&logo=appveyor) I create content on my coding/tech twitter <em>(100 follower in week)</em> [@o___samir](https://twitter.com/o___samir)
+![5](https://img.shields.io/badge/-5-%23009639?style=for-the-badge&logo=appveyor) I having penetration testing skills and have network+ certificate 
 
 <h1 align="center">Languages and Skills</h1>
 </br>

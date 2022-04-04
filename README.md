@@ -9,8 +9,6 @@
 * I'm a Linux Expert And Windows Administrator
 * I create content on my coding/tech twitter <em>(100 follower in week)</em> [@o___samir](https://twitter.com/o___samir)
 * I having penetration testing skills and have network+ certificate 
-<h1 align="center">Projects</h1>
-
 
 
 <h1 align="center">Languages and Skills</h1>
@@ -45,6 +43,8 @@
 
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white) ![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white) ![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white)
 <br>
+
+<h1 align="center">Projects</h1>
 
 | Index | Project | Tech Used |
 |:------:|:-----------------:|:------:|

@@ -16,7 +16,11 @@
 ![4](https://img.shields.io/badge/-4-%230E7FBF) I create content on my coding/tech twitter <em>(100 follower in week)</em> [@o___samir](https://twitter.com/o___samir) <br>
 ![5](https://img.shields.io/badge/-5-%230E7FBF) I having penetration testing skills and have network+ certificate 
 
-<h1 align="center">Languages and Skills</h1>
+<h1 align="center">
+
+![Langueges And Skills](https://img.shields.io/badge/Langueges-Skills-%230E7FBF?style=for-the-badge)
+
+</h1>
 </br>
 <p align="left">Sketch</p>
 
@@ -49,7 +53,11 @@
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white) ![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white) ![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white)
 <br>
 
-<h1 align="center">Projects</h1>
+<h1 align="center">
+
+![Projects](https://img.shields.io/badge/-Projects-%230E7FBF?style=for-the-badge)
+
+</h1>
 
 | Index | Project | Tech Used |
 |:------:|:-----------------:|:------:|
@@ -65,7 +73,11 @@
 
 
 
- <h2 align="center">Github Stats</h2>
+ <h2 align="center">
+
+ ![Github-stats](https://img.shields.io/badge/Github-Stats-%23F46DB0?style=for-the-badge)
+ 
+ </h2>
 
 <p align="center">
     <a href="https://github.com/omsamiir">
@@ -76,7 +88,11 @@
   <a href="https://github.com/omsamiir"><img alt="Aakash's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=omsamiir&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" width="300px"/></a>
   <br/>
 
-# Social Links 
+<h1 align="center"> 
+
+![Social-Links](https://img.shields.io/badge/Social-Links-%23F46DB0?style=for-the-badge)
+
+</h1>
 
 
 

@@ -32,19 +32,19 @@
 
 
  <h2 align="center">Github Stats</h2>
+ <br>
 <p align="center">
     <a href="https://github.com/Omsamiir">
         <img  src="https://github-readme-streak-stats.herokuapp.com/?user=Omsamiir&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0"/>
     </a>
 </p>
 
-  <br/>
  <a href="https://github.com/Omsamiir"><img alt="omsamiir's Github Stats" src="https://github-readme-stats.vercel.app/api?username=Omsamiir&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a>
 
   <a href="https://github.com/Omsamiir"><img alt="Aakash's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Omsamiir&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
   
 
-<br>
+<br/>
 
 # Social Links 
 

@@ -1,6 +1,6 @@
 
 
-![Omar Samir](https://user-images.githubusercontent.com/96446413/161599559-0695f1ac-d7fd-4c9a-81e2-1ce6031fd64e.gif)
+![Omar Samir](https://github.com/Omsamiir/Omsamiir/blob/main/banner/Omar%20Samir.gif)
 
 
 

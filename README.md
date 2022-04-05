@@ -1,6 +1,6 @@
 
 
-![Omar Samir](https://github.com/Omsamiir/Omsamiir/blob/main/banner/Omar%20Samir.gif)
+![Omar Samir](https://github.com/Omsamiir/Omsamiir/blob/main/banner/Omar.gif)
 
 
 

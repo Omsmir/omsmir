@@ -13,10 +13,18 @@
 <h6>
 
 ![#f43e45](https://via.placeholder.com/12/f43e45/000000?text=+) I'm Currently Learning PHP And Python Ontop Of My Studies</h6> <br>
-![#f43e45](https://via.placeholder.com/12/f43e45/000000?text=+)<h6> I'm an avid reader, my favorite author being sigmund freud</h6> <br>
-![#f43e45](https://via.placeholder.com/12/f43e45/000000?text=+) <h6> I'm a Linux Senior And Windows Administrator </h6> <br> 
-![#f43e45](https://via.placeholder.com/12/f43e45/000000?text=+) <h6> Posting Coding Techs On twitter <em>(100 follower in week)</em> <a href="https://twitter.com/O___samir" target="_blank"><img src="https://badgen.net/badge/icon/twitter?icon=twitter&label" target="_blank"></a> </h6> <br>
-![#f43e45](https://via.placeholder.com/12/f43e45/000000?text=+) <h6> Having Penetration Testing Skills and Network+ Certificate </h6>
+<h6>
+
+![#f43e45](https://via.placeholder.com/12/f43e45/000000?text=+) I'm an avid reader, my favorite author being sigmund freud</h6> <br>
+<h6>
+
+![#f43e45](https://via.placeholder.com/12/f43e45/000000?text=+) I'm a Linux Senior And Windows Administrator </h6> <br> 
+<h6> 
+
+![#f43e45](https://via.placeholder.com/12/f43e45/000000?text=+) Posting Coding Techs On twitter <em>(100 follower in week)</em> <a href="https://twitter.com/O___samir" target="_blank"><img src="https://badgen.net/badge/icon/twitter?icon=twitter&label" target="_blank"></a> </h6> <br>
+<h6> 
+
+![#f43e45](https://via.placeholder.com/12/f43e45/000000?text=+) Having Penetration Testing Skills and Network+ Certificate </h6>
 
 <h1 align="center">
 

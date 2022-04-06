@@ -68,7 +68,7 @@
 
 | Index | Project | Tech Used |
 |:------:|:-----------------:|:------:|
-|   1  |[Css-Tutorials](https://github.com/Omsamiir/Css.git)|![css](https://img.icons8.com/color/48/000000/css.png) ![Html](https://github.com/Omsamiir/Omsamiir/blob/main/imgs/index.png) |
+|   1  |[Php-Tutorials](https://github.com/Omsamiir/Php)|![Php](https://img.icons8.com/color/48/000000/php.png) ![Html](https://github.com/Omsamiir/Omsamiir/blob/main/imgs/index.png) |
 |   2  |[Javascript-tutorials](https://github.com/Omsamiir/JAVASCRIPT.git)| ![Html](https://github.com/Omsamiir/Omsamiir/blob/main/imgs/index.png) ![javascript](https://github.com/Omsamiir/Omsamiir/blob/main/imgs/icons8-js-48.png) |
 |   3  |[Python-Tutorials](https://github.com/Omsamiir/PYTHON.git)| ![Python](https://img.shields.io/badge/python-39457E?style=for-the-badge&logo=python&logoColor=ffdd54) |
 |   4  |[Random-Projects](https://github.com/Omsamiir/Random-Projects.git)| ![css](https://img.icons8.com/color/48/000000/css.png) ![Html](https://github.com/Omsamiir/Omsamiir/blob/main/imgs/index.png) ![javascript](https://github.com/Omsamiir/Omsamiir/blob/main/imgs/icons8-js-48.png)|

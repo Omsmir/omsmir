@@ -10,11 +10,11 @@
 
 </h1>
 
-![1](https://img.shields.io/badge/-1-%230E7FBF)  I'm Currently Learning PHP And Python Ontop Of My Studies <br>
-![2](https://img.shields.io/badge/-2-%230E7FBF) I'm an avid reader, my favorite author being sigmund freud <br>
-![3](https://img.shields.io/badge/-3-%230E7FBF) I'm a Linux Senior And Windows Administrator <br> 
-![4](https://img.shields.io/badge/-4-%230E7FBF) Posting Coding Techs On twitter <em>(100 follower in week)</em> <a href="https://twitter.com/O___samir" target="_blank"><img src="https://badgen.net/badge/icon/twitter?icon=twitter&label" target="_blank"></a> <br>
-![5](https://img.shields.io/badge/-5-%230E7FBF) Having Penetration Testing Skills and Network+ Certificate 
+![#f43e45](https://via.placeholder.com/12/f43e45/000000?text=+)I'm Currently Learning PHP And Python Ontop Of My Studies <br>
+![#f43e45](https://via.placeholder.com/12/f43e45/000000?text=+) I'm an avid reader, my favorite author being sigmund freud <br>
+![#f43e45](https://via.placeholder.com/12/f43e45/000000?text=+)I'm a Linux Senior And Windows Administrator <br> 
+![#f43e45](https://via.placeholder.com/12/f43e45/000000?text=+) Posting Coding Techs On twitter <em>(100 follower in week)</em> <a href="https://twitter.com/O___samir" target="_blank"><img src="https://badgen.net/badge/icon/twitter?icon=twitter&label" target="_blank"></a> <br>
+![#f43e45](https://via.placeholder.com/12/f43e45/000000?text=+)Having Penetration Testing Skills and Network+ Certificate 
 
 <h1 align="center">
 

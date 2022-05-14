@@ -10,18 +10,17 @@
 
 </h1>
 
-<img src="https://via.placeholder.com/12/f43e45/000000?text=+">
 
-![f43e45](https://via.placeholder.com/12/f43e45/000000?text=+) I'm Currently Learning PHP And Python 
+![5-1](https://img.shields.io/badge/5-1%20-%23d01b59) I'm Currently Learning PHP And Python 
 Ontop Of My Studies <br>
 
-![f43e45](https://via.placeholder.com/12/f43e45/000000?text=+) I'm an avid reader, my favorite author being sigmund freud <br>
+![5-2](https://img.shields.io/badge/5-2%20-%23d01b59) I'm an avid reader, my favorite author being sigmund freud <br>
 
-![f43e45](https://via.placeholder.com/12/f43e45/000000?text=+) I'm a Linux Senior And Windows Administrator  <br> 
+![5-3](https://img.shields.io/badge/5-3%20-%23d01b59) I'm a Linux Senior And Windows Administrator  <br> 
 
-![f43e45](https://via.placeholder.com/12/f43e45/000000?text=+) Posting Coding Techs On twitter <em>(100 follower in week)</em> <a href="https://twitter.com/O___samir" target="_blank"><img src="https://badgen.net/badge/icon/twitter?icon=twitter&label" target="_blank"></a>  <br>
+![5-4](https://img.shields.io/badge/5-4%20-%23d01b59) Posting Coding Techs On twitter <em>(100 follower in week)</em> <a href="https://twitter.com/O___samir" target="_blank"><img src="https://badgen.net/badge/icon/twitter?icon=twitter&label" target="_blank"></a>  <br>
 
-![f43e45](https://via.placeholder.com/12/f43e45/000000?text=+) Having Penetration Testing Skills and Network+ Certificate 
+![5-5](https://img.shields.io/badge/5-5%20-%23d01b59) Having Penetration Testing Skills and Network+ Certificate 
 
 <h1 align="center">
 

@@ -12,15 +12,16 @@
 
 
 
-![#f43e45](https://via.placeholder.com/12/f43e45/000000?text=+) I'm Currently Learning PHP And Python Ontop Of My Studies <br>
+![f43e45](https://via.placeholder.com/12/f43e45/000000?text=+) I'm Currently Learning PHP And Python 
+Ontop Of My Studies <br>
 
-![#f43e45](https://via.placeholder.com/12/f43e45/000000?text=+) I'm an avid reader, my favorite author being sigmund freud <br>
+![f43e45](https://via.placeholder.com/12/f43e45/000000?text=+) I'm an avid reader, my favorite author being sigmund freud <br>
 
-![#f43e45](https://via.placeholder.com/12/f43e45/000000?text=+) I'm a Linux Senior And Windows Administrator  <br> 
+![f43e45](https://via.placeholder.com/12/f43e45/000000?text=+) I'm a Linux Senior And Windows Administrator  <br> 
 
-![#f43e45](https://via.placeholder.com/12/f43e45/000000?text=+) Posting Coding Techs On twitter <em>(100 follower in week)</em> <a href="https://twitter.com/O___samir" target="_blank"><img src="https://badgen.net/badge/icon/twitter?icon=twitter&label" target="_blank"></a>  <br>
+![f43e45](https://via.placeholder.com/12/f43e45/000000?text=+) Posting Coding Techs On twitter <em>(100 follower in week)</em> <a href="https://twitter.com/O___samir" target="_blank"><img src="https://badgen.net/badge/icon/twitter?icon=twitter&label" target="_blank"></a>  <br>
 
-![#f43e45](https://via.placeholder.com/12/f43e45/000000?text=+) Having Penetration Testing Skills and Network+ Certificate 
+![f43e45](https://via.placeholder.com/12/f43e45/000000?text=+) Having Penetration Testing Skills and Network+ Certificate 
 
 <h1 align="center">
 

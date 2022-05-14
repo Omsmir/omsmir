@@ -10,7 +10,7 @@
 
 </h1>
 
-
+<img src="https://via.placeholder.com/12/f43e45/000000?text=+">
 
 ![f43e45](https://via.placeholder.com/12/f43e45/000000?text=+) I'm Currently Learning PHP And Python 
 Ontop Of My Studies <br>

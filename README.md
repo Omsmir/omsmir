@@ -1,6 +1,6 @@
 
 
-![OmarSamir](https://github.com/Omsamiir/Omsamiir/blob/main/banner/Omar.gif)
+![OmarSamir](https://github.com/LaraFra/laraFra/blob/main/banner/Omar.gif)
 
 
 
@@ -18,7 +18,7 @@ Ontop Of My Studies <br>
 
 ![5-3](https://img.shields.io/badge/5-3%20-%23d01b59) I'm a Linux Senior And Windows Administrator  <br> 
 
-![5-4](https://img.shields.io/badge/5-4%20-%23d01b59) Posting Coding Techs On twitter <em>(100 follower in week)</em> <a href="https://twitter.com/O___samir" target="_blank"><img src="https://badgen.net/badge/icon/twitter?icon=twitter&label" target="_blank"></a>  <br>
+![5-4](https://img.shields.io/badge/5-4%20-%23d01b59) Posting Coding Techs On twitter <em>(100 follower in week)</em> <a href="https://twitter.com/LaraFranccesco" target="_blank"><img src="https://badgen.net/badge/icon/twitter?icon=twitter&label" target="_blank"></a>  <br>
 
 ![5-5](https://img.shields.io/badge/5-5%20-%23d01b59) Having Penetration Testing Skills and Network+ Certificate 
 
@@ -68,10 +68,10 @@ Ontop Of My Studies <br>
 
 | Index | Project | Tech Used |
 |:------:|:-----------------:|:------:|
-|   1  |[Php-Tutorials](https://github.com/Omsamiir/Php)|![Php](https://img.icons8.com/color/48/000000/php.png) ![Html](https://github.com/Omsamiir/Omsamiir/blob/main/imgs/index.png) |
-|   2  |[Javascript-tutorials](https://github.com/Omsamiir/JAVASCRIPT.git)| ![Html](https://github.com/Omsamiir/Omsamiir/blob/main/imgs/index.png) ![javascript](https://github.com/Omsamiir/Omsamiir/blob/main/imgs/icons8-js-48.png) |
-|   3  |[Python-Tutorials](https://github.com/Omsamiir/PYTHON.git)| ![Python](https://img.shields.io/badge/python-39457E?style=for-the-badge&logo=python&logoColor=ffdd54) |
-|   4  |[Random-Projects](https://github.com/Omsamiir/Random-Projects.git)| ![css](https://img.icons8.com/color/48/000000/css.png) ![Html](https://github.com/Omsamiir/Omsamiir/blob/main/imgs/index.png) ![javascript](https://github.com/Omsamiir/Omsamiir/blob/main/imgs/icons8-js-48.png)|
+|   1  |[Php-Tutorials](https://github.com/laraFra/Php)|![Php](https://img.icons8.com/color/48/000000/php.png) ![Html](https://github.com/laraFra/laraFra/blob/main/imgs/index.png) |
+|   2  |[Javascript-tutorials](https://github.com/laraFra/JAVASCRIPT.git)| ![Html](https://github.com/laraFra/laraFra/blob/main/imgs/index.png) ![javascript](https://github.com/laraFra/laraFra/blob/main/imgs/icons8-js-48.png) |
+|   3  |[Python-Tutorials](https://github.com/laraFra/PYTHON.git)| ![Python](https://img.shields.io/badge/python-39457E?style=for-the-badge&logo=python&logoColor=ffdd54) |
+|   4  |[Random-Projects](https://github.com/laraFra/Random-Projects.git)| ![css](https://img.icons8.com/color/48/000000/css.png) ![Html](https://github.com/laraFra/laraFra/blob/main/imgs/index.png) ![javascript](https://github.com/laraFra/laraFra/blob/main/imgs/icons8-js-48.png)|
 
 <br>
 
@@ -86,12 +86,12 @@ Ontop Of My Studies <br>
  </h2>
 
 <p align="center">
-    <a href="https://github.com/omsamiir">
-        <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Subham Raoniar's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=omsamiir&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0"/>
+    <a href="https://github.com/laraFra">
+        <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Subham Raoniar's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=laraFra&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0"/>
     </a>
 </p>
-    <a href="https://github.com/omsamiir"><img alt="omsamiir's Github Stats" src="https://github-readme-stats.vercel.app/api?username=omsamiir&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a>
-  <a href="https://github.com/omsamiir"><img alt="Aakash's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=omsamiir&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" width="300px"/></a>
+    <a href="https://github.com/laraFra"><img alt="laraFra's Github Stats" src="https://github-readme-stats.vercel.app/api?username=laraFra&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a>
+  <a href="https://github.com/laraFra"><img alt="Aakash's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=laraFra&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" width="300px"/></a>
   <br/>
 
 <h1 align="center"> 
@@ -104,10 +104,10 @@ Ontop Of My Studies <br>
 
 <p align="left">
 
-<a href="https://www.twitter.com/o___samir" target="_blank" rel="noreferrer"><img
-src="https://img.shields.io/twitter/follow/O___samir?logo=twitter&style=for-the-badge&color=3382ed&labelColor=1c1917"/> &nbsp;&nbsp;
-<a href="https://www.github.com/Omsamiir" target="_blank" rel="noreferrer"><img
-src="https://img.shields.io/github/followers/omsamiir?logo=github&style=for-the-badge&color=3382ed&labelColor=1c1917" /></a>
+<a href="https://www.twitter.com/LaraFranccesco" target="_blank" rel="noreferrer"><img
+src="https://img.shields.io/twitter/follow/LaraFranccesco?logo=twitter&style=for-the-badge&color=3382ed&labelColor=1c1917"/> &nbsp;&nbsp;
+<a href="https://www.github.com/laraFra" target="_blank" rel="noreferrer"><img
+src="https://img.shields.io/github/followers/laraFra?logo=github&style=for-the-badge&color=3382ed&labelColor=1c1917" /></a>
 
 </p>
 <br>

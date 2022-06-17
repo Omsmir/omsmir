@@ -18,7 +18,7 @@ Ontop Of My Studies <br>
 
 ![5-3](https://img.shields.io/badge/5-3%20-%23d01b59) I'm a Linux Senior And Windows Administrator  <br> 
 
-![5-4](https://img.shields.io/badge/5-4%20-%23d01b59) Posting Coding Techs On twitter <em>(100 follower in week)</em> <a href="https://twitter.com/lara_whi" target="_blank"><img src="https://badgen.net/badge/icon/twitter?icon=twitter&label" target="_blank"></a>  <br>
+![5-4](https://img.shields.io/badge/5-4%20-%23d01b59) Posting Coding Techs On twitter <em>(100 follower in week)</em> <a href="https://twitter.com/laaracode" target="_blank"><img src="https://badgen.net/badge/icon/twitter?icon=twitter&label" target="_blank"></a>  <br>
 
 ![5-5](https://img.shields.io/badge/5-5%20-%23d01b59) Having Penetration Testing Skills and Network+ Certificate 
 
@@ -104,8 +104,8 @@ Ontop Of My Studies <br>
 
 <p align="left">
 
-<a href="https://www.twitter.com/lara_whi" target="_blank" rel="noreferrer"><img
-src="https://img.shields.io/twitter/follow/lara_whi?logo=twitter&style=for-the-badge&color=3382ed&labelColor=1c1917"/> &nbsp;&nbsp;
+<a href="https://www.twitter.com/laaracode" target="_blank" rel="noreferrer"><img
+src="https://img.shields.io/twitter/follow/laaracode?logo=twitter&style=for-the-badge&color=3382ed&labelColor=1c1917"/> &nbsp;&nbsp;
 <a href="https://www.github.com/laraFra" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/github/followers/laraFra?logo=github&style=for-the-badge&color=3382ed&labelColor=1c1917" /></a>
 

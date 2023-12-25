@@ -113,8 +113,7 @@ Ontop Of My Studies <br>
 src="https://img.shields.io/github/followers/omsmir?logo=github&style=for-the-badge&color=3382ed&labelColor=1c1917" /></a>
 &nbsp;&nbsp;
 
-<a href="https://www.twitter.com/omsamiir" target="_blank" rel="noreferrer"><img
-src="https://img.shields.io/twitter/follow/omsamiir?logo=twitter&style=for-the-badge&color=3382ed&labelColor=1c1917"/>  </a>
+[![github-readme-twitter](https://github-readme-twitter.gazf.vercel.app/api?id=omsamiir?show_retweet=on)](https://github.com/gazf/github-readme-twitter)
 </p>
 <br>
 

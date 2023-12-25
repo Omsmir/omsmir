@@ -102,7 +102,7 @@ Ontop Of My Studies <br>
 
 <div align="center">
   
-![Views](https://komarev.com/ghpvc/?username=Omsmir-h&label=Profile+visitors:)
+![Views](https://komarev.com/ghpvc/?username=Omsmir-h&label=Profile+Views:)
   
 </div>
 
@@ -111,9 +111,7 @@ Ontop Of My Studies <br>
 
 <a href="https://www.github.com/omsmir" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/github/followers/omsmir?logo=github&style=for-the-badge&color=3382ed&labelColor=1c1917" /></a>
-&nbsp;&nbsp;
 
-[![github-readme-twitter](https://github-readme-twitter.gazf.vercel.app/api?id=omsamiir?show_retweet=on)](https://github.com/gazf/github-readme-twitter)
 </p>
 <br>
 

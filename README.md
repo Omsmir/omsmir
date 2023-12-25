@@ -100,15 +100,21 @@ Ontop Of My Studies <br>
 
 </h1>
 
+<div align="center">
+  
+[![](https://visitcount.itsvg.in/api?id=omsmir&icon=3&color=6)](https://visitcount.itsvg.in)
+  
+</div>
 
 
 <p align="left">
 
-<a href="https://www.twitter.com/omsamiir" target="_blank" rel="noreferrer"><img
-src="https://img.shields.io/twitter/follow/omsamiir?logo=twitter&style=for-the-badge&color=3382ed&labelColor=1c1917"/> &nbsp;&nbsp;
 <a href="https://www.github.com/omsmir" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/github/followers/omsmir?logo=github&style=for-the-badge&color=3382ed&labelColor=1c1917" /></a>
+&nbsp;&nbsp;
 
+<a href="https://www.twitter.com/omsamiir" target="_blank" rel="noreferrer"><img
+src="https://img.shields.io/twitter/follow/omsamiir?logo=twitter&style=for-the-badge&color=3382ed&labelColor=1c1917"/>  </a>
 </p>
 <br>
 

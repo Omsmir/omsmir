@@ -102,7 +102,7 @@ Ontop Of My Studies <br>
 
 <div align="center">
   
-[![](https://visitcount.itsvg.in/api?id=omsmir&icon=3&color=6)](https://visitcount.itsvg.in)
+![Views](https://komarev.com/ghpvc/?username=Omsmir-h&label=Profile+visitors:)
   
 </div>
 

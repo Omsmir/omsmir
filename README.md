@@ -1,4 +1,8 @@
-I'm a **Software Developer** with a strong foundation in building **scalable**, **real-time web applications** and crafting modern user experiences. I specialize in full-stack development using tools like **Next.js**, **Express.js**, **MongoDB**, and **Redis**, with a particular focus on modular architecture, real-time communication, and interactive 3D systems.
+I'm a **Software Developer** with a strong foundation in engineering **scalable**, **real-time web applications**, and delivering rich, modern user experiences. I build performant systems with **modular architecture**, **real-time communication**, and **interactive 3D visualization**, particularly in **medical** and **scientific domains**.
+
+
+My core stack includes **React**, **Next.js**, **Express.js**, **Fastapi**, **Go Fiber** , and **Socket.IO**, **MongoDB**, **Redis**, supported by a UI layer built with **TailwindCSS**, **ShadCN**,  **TanStack Query**, and **Redux Toolkit**. I develop secure, **multi-tenant**, **role-based** platforms with **NextAuth.js**, **OAuth2**, **JWT** and **Firebase** Auth, emphasizing data protection and session integrity across user interactions.
+
 
 > 🧩 **Note:** Beyond the world of code, I’m also a biotechnology student deeply involved in chemistry and biomedical research. My academic journey has not only sharpened my analytical and problem-solving skills but also fueled my interest in merging technology with life sciences to build impactful solutions in the medical and health sectors.
 
@@ -6,17 +10,20 @@ I'm a **Software Developer** with a strong foundation in building **scalable**, 
 
 ## 📋 Project Management & Agile Experience
 
-> *note* I am highly experienced in working within **Agile software development environments**, where collaboration, adaptability, and continuous improvement are central to project success. I regularly participate in:
 
-- **Daily Standups**: Communicating progress, identifying blockers, and staying aligned with the team.
-- **Sprint Planning & Retrospectives**: Setting clear goals for each sprint and reflecting on team performance to optimize future workflows.
-- **Scrum Methodology**: Delivering incremental value through well-defined sprints, backlog refinement, and clear sprint goals.
-- **Kanban Boards & Task Management**: Organizing development pipelines using tools like **JIRA** and **Notion** to prioritize tasks, visualize workflows, and maintain a smooth development process.
-- **Cross-functional Collaboration**: Coordinating with frontend, backend, design, and QA teams to deliver cohesive product experiences.
-- **User Story & Ticket Handling**: Writing, estimating, and executing detailed user stories with defined acceptance criteria to ensure clarity and accountability.
+> I work confidently in **Agile software development environments**, where cross-functional collaboration and adaptability drive continuous delivery. I actively contribute to:
 
-> I take pride in delivering high-quality features on time, participating actively in team discussions, and adapting quickly to changing requirements. My experience in Agile enables me to work effectively in both startup and enterprise-level projects.
-"""
+- 🧭 **Scrum Methodologies**: Delivering functional features through focused sprints, sprint planning, backlog grooming, and retrospectives.
+- 📅 **Daily Standups**: Clearly communicating progress, identifying blockers, and syncing with teammates to maintain velocity.
+- 📌 **Kanban Workflow**: Utilizing tools like **JIRA**, **Notion**, and **GitHub Projects** to manage epics, user stories, and development pipelines.
+- 🧠 **Cross-functional Collaboration**: Working across frontend, backend, UI/UX, and DevOps to build cohesive and production-ready systems.
+- 📝 **User Story Lifecycle**: Writing, estimating, and implementing detailed tickets with clear acceptance criteria and traceability.
+- ⚙️ **CI/CD Awareness**: Coordinating deployments and understanding version control flows to support frequent releases in a collaborative environment.
+- 🧪 **QA & Test Feedback Loops**: Engaging with QA processes, bug triaging, and refining releases based on user feedback.
+
+> 🧩 **Note:** I thrive in both **startup and enterprise settings**, balancing speed with quality, independent problem-solving with team-driven planning, and always aiming to deliver software that meets both user needs and business goals.
+
+---
 
 ## 🛠️ Tech Stack & Tools
 
@@ -43,19 +50,13 @@ I'm a **Software Developer** with a strong foundation in building **scalable**, 
 ![React Router](https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=reactrouter&logoColor=white)
 ![Redux Toolkit](https://img.shields.io/badge/Redux_Toolkit-764ABC?style=for-the-badge&logo=redux&logoColor=white)
 
-
 ### 🧠 Backend
 ![Express.js](https://img.shields.io/badge/Express.js-303030?style=for-the-badge&logo=express)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 ![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
 ![Fiber](https://img.shields.io/badge/Fiber-00C7B7?style=for-the-badge&logo=fiber&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
-![JWT](https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white)
-![Bcrypt](https://img.shields.io/badge/Bcrypt-00BFA5?style=for-the-badge)
 ![REST API](https://img.shields.io/badge/REST_API-61DAFB?style=for-the-badge)
-![Swagger](https://img.shields.io/badge/Swagger-85EA2D?style=for-the-badge&logo=swagger&logoColor=black)
-
-
 
 ## 🗄️ Databases & Validation
 
@@ -70,23 +71,32 @@ I'm a **Software Developer** with a strong foundation in building **scalable**, 
 ![Pydantic](https://img.shields.io/badge/Pydantic-0A0A0A?style=for-the-badge)
 ![Odmantic](https://img.shields.io/badge/Odmantic-005571?style=for-the-badge)
 
+### ☁️ Cloud & Storage (AWS & Others)
+
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
+![Amazon S3](https://img.shields.io/badge/Amazon_S3-569A31?style=for-the-badge&logo=amazon-s3&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
+![Google Cloud](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
+
 ### 🔒 Auth & Security
 ![NextAuth](https://img.shields.io/badge/NextAuth.js-222222?style=for-the-badge)
 ![Firebase Auth](https://img.shields.io/badge/Firebase_Auth-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
-
+![OAuth2](https://img.shields.io/badge/OAuth2-2C7BB6?style=for-the-badge)
+![JWT](https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white)
 
 ### 🌐 DevOps & Tools
 ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-
+![Swagger](https://img.shields.io/badge/Swagger-85EA2D?style=for-the-badge&logo=swagger&logoColor=black)
+![NGINX](https://img.shields.io/badge/NGINX-009639?style=for-the-badge&logo=nginx&logoColor=white)
 ---
 
 
 ## 📈 GitHub Stats
 
----
 
 <div align="center">
 

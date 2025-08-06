@@ -1,104 +1,103 @@
+I'm a **Software Developer** with a strong foundation in building **scalable**, **real-time web applications** and crafting modern user experiences. I specialize in full-stack development using tools like **Next.js**, **Express.js**, **MongoDB**, and **Redis**, with a particular focus on modular architecture, real-time communication, and interactive 3D systems.
+
+> 🧩 **Note:** Beyond the world of code, I’m also a biotechnology student deeply involved in chemistry and biomedical research. My academic journey has not only sharpened my analytical and problem-solving skills but also fueled my interest in merging technology with life sciences to build impactful solutions in the medical and health sectors.
+
+---
+
+## 📋 Project Management & Agile Experience
+
+> *note* I am highly experienced in working within **Agile software development environments**, where collaboration, adaptability, and continuous improvement are central to project success. I regularly participate in:
+
+- **Daily Standups**: Communicating progress, identifying blockers, and staying aligned with the team.
+- **Sprint Planning & Retrospectives**: Setting clear goals for each sprint and reflecting on team performance to optimize future workflows.
+- **Scrum Methodology**: Delivering incremental value through well-defined sprints, backlog refinement, and clear sprint goals.
+- **Kanban Boards & Task Management**: Organizing development pipelines using tools like **JIRA** and **Notion** to prioritize tasks, visualize workflows, and maintain a smooth development process.
+- **Cross-functional Collaboration**: Coordinating with frontend, backend, design, and QA teams to deliver cohesive product experiences.
+- **User Story & Ticket Handling**: Writing, estimating, and executing detailed user stories with defined acceptance criteria to ensure clarity and accountability.
+
+> I take pride in delivering high-quality features on time, participating actively in team discussions, and adapting quickly to changing requirements. My experience in Agile enables me to work effectively in both startup and enterprise-level projects.
+"""
+
+## 🛠️ Tech Stack & Tools
+
+### 💻 Frontend
+
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![TailwindCSS](https://img.shields.io/badge/TailwindCSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
+![ShadCN](https://img.shields.io/badge/ShadCN-%2315222C?style=for-the-badge)
+![TanStack Query](https://img.shields.io/badge/TanStack_Query-FF4154?style=for-the-badge)
+![TanStack Table](https://img.shields.io/badge/TanStack_Table-00C853?style=for-the-badge)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![Styled Components](https://img.shields.io/badge/Styled--Components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white)
+![CSS Modules](https://img.shields.io/badge/CSS%20Modules-264de4?style=for-the-badge&logo=css3&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
+![Material UI](https://img.shields.io/badge/Material_UI-007FFF?style=for-the-badge&logo=mui&logoColor=white)
+![PrimeReact](https://img.shields.io/badge/PrimeReact-00BCD4?style=for-the-badge&logo=prime&logoColor=white)
+![Framer Motion](https://img.shields.io/badge/Framer_Motion-E10098?style=for-the-badge&logo=framer&logoColor=white)
+![Three.js](https://img.shields.io/badge/Three.js-000000?style=for-the-badge&logo=three.js&logoColor=white)
+![GSAP](https://img.shields.io/badge/GSAP-88CE02?style=for-the-badge&logo=greensock&logoColor=black)
+![React Router](https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=reactrouter&logoColor=white)
+![Redux Toolkit](https://img.shields.io/badge/Redux_Toolkit-764ABC?style=for-the-badge&logo=redux&logoColor=white)
 
 
-![OmarSamir](https://github.com/omsmir/omsmir/blob/main/banner/Omar.gif)
-
-
-
-<h1 align="center"> 
-
-![About Me](https://img.shields.io/badge/About-Me-purple?style=for-the-badge)
-
-</h1>
-
-
-![5-1](https://img.shields.io/badge/5-1%20-%23d01b59) I'm Currently Learning PHP And Java 
-Ontop Of My Studies <br>
-
-![5-2](https://img.shields.io/badge/5-2%20-%23d01b59) I'm an avid reader, my favorite author being sigmund freud <br>
-
-![5-3](https://img.shields.io/badge/5-3%20-%23d01b59) I'm a Linux Senior And Windows Administrator  <br> 
-
-![5-4](https://img.shields.io/badge/5-4%20-%23d01b59) Posting Coding Techs On twitter <em>(100 follower in week)</em> <a href="https://twitter.com/omsamiir" target="_blank"><img src="https://badgen.net/badge/icon/twitter?icon=twitter&label" target="_blank"></a>  <br>
-
-![5-5](https://img.shields.io/badge/5-5%20-%23d01b59) Having Penetration Testing Skills and Network+ Certificate 
-
-<h1 align="center">
-
-![Langueges And Skills](https://img.shields.io/badge/Langueges-Skills-%230E7FBF?style=for-the-badge)
-
-</h1>
-
-<p align="left">Sketch</p>
-
-![Adobe XD](https://img.shields.io/badge/Adobe%20XD-470137?style=for-the-badge&logo=Adobe%15XD&logoColor=#FF61F6) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Google Drive](https://img.shields.io/badge/Google%20Drive-4285F4?style=for-the-badge&logo=googledrive&logoColor=white) ![GitLab CI](https://img.shields.io/badge/gitlab%20ci-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white) ![Github](https://img.shields.io/badge/github-%23e4626b.svg?style=for-the-badge&logo=github&logoColor=140200)
- <br>
-
-
-
-
-<p align="left">IDE</p>
-
-![Atom](https://img.shields.io/badge/Atom-%2366595C.svg?style=for-the-badge&logo=atom&logoColor=white) ![PyCharm](https://img.shields.io/badge/pycharm-143?style=for-the-badge&logo=pycharm&logoColor=black&color=black&labelColor=green) ![Vim](https://img.shields.io/badge/VIM-%2311AB00.svg?style=for-the-badge&logo=vim&logoColor=white) ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white) ![Visual Studio](https://img.shields.io/badge/Visual%20Studio-5C2D91.svg?style=for-the-badge&logo=visual-studio&logoColor=white)<br> 
-
-
-
-<p align="left">languages</p>
-
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) <br> 
-
-
-
-<p align="left">OS</p>
-
-![Arch](https://img.shields.io/badge/Arch%20Linux-1793D1?logo=arch-linux&logoColor=fff&style=for-the-badge) ![Debian](https://img.shields.io/badge/Debian-D70A53?style=for-the-badge&logo=debian&logoColor=white) ![Kali](https://img.shields.io/badge/Kali-268BEE?style=for-the-badge&logo=kalilinux&logoColor=white) ![Linux Mint](https://img.shields.io/badge/Linux%20Mint-87CF3E?style=for-the-badge&logo=Linux%20Mint&logoColor=white) ![Manjaro](https://img.shields.io/badge/Manjaro-35BF5C?style=for-the-badge&logo=Manjaro&logoColor=white) ![Red Hat](https://img.shields.io/badge/Red%20Hat-EE0000?style=for-the-badge&logo=redhat&logoColor=white) ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)<br> 
-
-
-
-
-<p align="left">Server Apps</p>
-
-![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white) ![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white) ![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white)
-<br>
-
-<h1 align="center">
-
-![Projects](https://img.shields.io/badge/My-Projects-%23F46DB0?style=for-the-badge)
-
-</h1>
-
-| Index | Project | Tech Used |
-|:------:|:-----------------:|:------:|
-|   1  |[Php-Tutorials](https://github.com/omsmir/Php)|![Php](https://img.icons8.com/color/48/000000/php.png) ![Html](https://github.com/omsmir/omsmir/blob/main/imgs/index.png) |
-|   2  |[Javascript-tutorials](https://github.com/omsmir/JAVASCRIPT.git)| ![Html](https://github.com/omsmir/omsmir/blob/main/imgs/index.png) ![javascript](https://github.com/omsmir/omsmir/blob/main/imgs/icons8-js-48.png) |
-|   3  |[Python-Tutorials](https://github.com/omsmir/PYTHON.git)| ![Python](https://img.shields.io/badge/python-39457E?style=for-the-badge&logo=python&logoColor=ffdd54) |
-|   4  |[Random-Projects](https://github.com/omsmir/Random-Projects.git)| ![css](https://img.icons8.com/color/48/000000/css.png) ![Html](https://github.com/omsmir/omsmir/blob/main/imgs/index.png) ![javascript](https://github.com/omsmir/omsmir/blob/main/imgs/icons8-js-48.png)|
-
-<br>
+### 🧠 Backend
+![Express.js](https://img.shields.io/badge/Express.js-303030?style=for-the-badge&logo=express)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
+![Fiber](https://img.shields.io/badge/Fiber-00C7B7?style=for-the-badge&logo=fiber&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+![JWT](https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white)
+![Bcrypt](https://img.shields.io/badge/Bcrypt-00BFA5?style=for-the-badge)
+![REST API](https://img.shields.io/badge/REST_API-61DAFB?style=for-the-badge)
+![Swagger](https://img.shields.io/badge/Swagger-85EA2D?style=for-the-badge&logo=swagger&logoColor=black)
 
 
 
+## 🗄️ Databases & Validation
+
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
+![Socket.IO](https://img.shields.io/badge/Socket.IO-010101?style=for-the-badge&logo=socketdotio&logoColor=white)
+![Mongoose](https://img.shields.io/badge/Mongoose-880000?style=for-the-badge)
+![Zod](https://img.shields.io/badge/Zod-121212?style=for-the-badge)
+![class-validator](https://img.shields.io/badge/class--validator-000000?style=for-the-badge)
+![Pydantic](https://img.shields.io/badge/Pydantic-0A0A0A?style=for-the-badge)
+![Odmantic](https://img.shields.io/badge/Odmantic-005571?style=for-the-badge)
+
+### 🔒 Auth & Security
+![NextAuth](https://img.shields.io/badge/NextAuth.js-222222?style=for-the-badge)
+![Firebase Auth](https://img.shields.io/badge/Firebase_Auth-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
 
 
- <h2 align="center">
+### 🌐 DevOps & Tools
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 
- ![Github-stats](https://img.shields.io/badge/Github-Stats-%23F46DB0?style=for-the-badge)
- 
- </h2>
+---
 
-<p align="center">
-    <a href="https://github.com/omsmir">
-        <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Subham Raoniar's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=omsmir&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0"/>
-    </a>
-</p>
-    <a href="https://github.com/omsmir"><img alt="omsmir's Github Stats" src="https://github-readme-stats.vercel.app/api?username=omsmir&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a>
-  <a href="https://github.com/omsmir"><img alt="Aakash's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=omsmir&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" width="300px"/></a>
-  <br/>
 
-<h1 align="center"> 
+## 📈 GitHub Stats
 
-![Social-Links](https://img.shields.io/badge/Social-Links-%23F46DB0?style=for-the-badge)
+---
 
-</h1>
+<div align="center">
+
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=omsmir&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0" alt="GitHub Streak"/>
+
+</div>
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=omsmir&show_icons=true&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=omsmir&layout=compact&theme=radical)
+
+---
 
 <div align="center">
   
@@ -106,13 +105,10 @@ Ontop Of My Studies <br>
   
 </div>
 
-
 <p align="left">
 
-<a href="https://www.github.com/omsmir" target="_blank" rel="noreferrer"><img
-src="https://img.shields.io/github/followers/omsmir?logo=github&style=for-the-badge&color=3382ed&labelColor=1c1917" /></a>
+![Github followers](https://img.shields.io/github/followers/omsmir?logo=github&style=for-the-badge&color=3382ed&labelColor=1c1917)
 
 </p>
+
 <br>
-
-
